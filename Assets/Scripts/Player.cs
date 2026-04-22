@@ -38,7 +38,7 @@ public class Player : MonoBehaviour
         Vector2 inputVector = GameInput.Instance.GetMovementVector();
         inputVector = inputVector.normalized;
         rb.MovePosition(rb.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
-        Debug.Log(inputVector);
+        //Debug.Log(inputVector);
 
         // Считывание и запись в переменную того куда персонаж бежит
         if (inputVector.x == 1.0)
