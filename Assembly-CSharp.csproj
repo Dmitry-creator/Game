@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerVisual.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
+    <Compile Include="Assets\Scripts\ClassBloksObject.cs" />
     <Compile Include="Assets\PlayerInput\PlayerInputAction.cs" />
     <Compile Include="Assets\Scripts\GenerationMap.cs" />
   </ItemGroup>
