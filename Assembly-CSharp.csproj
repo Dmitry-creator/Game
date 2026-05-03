@@ -54,6 +54,7 @@
     <Compile Include="Assets\Scripts\PlayerVisual.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\Scripts\ClassBloksObject.cs" />
+    <Compile Include="Assets\Scripts\SwitchCameras.cs" />
     <Compile Include="Assets\PlayerInput\PlayerInputAction.cs" />
     <Compile Include="Assets\Scripts\GenerationMap.cs" />
   </ItemGroup>
